@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: green;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: antiquewhite;
+	padding: 20px;
+	
+} 
+h1, h2 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color: rgba(6,22,32,1.00);
+	
+} 
+body {
+	background-image: url("slike/download.jpg")
+} 
+img {
+	height: 400px;
+} 
